@@ -1,0 +1,1 @@
+import{p as l}from"./entry.7f5874b1.js";var n={name:"AccordionTab",props:{header:null,headerStyle:null,headerClass:null,headerProps:null,headerActionProps:null,contentStyle:null,contentClass:null,contentProps:null,disabled:Boolean}};function r(e,o,t,a,s,d){return l(e.$slots,"default")}n.render=r;export{n as default};
