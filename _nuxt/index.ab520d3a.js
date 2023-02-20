@@ -1,0 +1,1 @@
+import{_ as e}from"./nuxt-link.d4ef3428.js";import{i as o,o as n,g as c,w as _,f as r}from"./entry.769ec967.js";const a={};function s(f,i){const t=e;return n(),c(t,{to:"/pub/"},{default:_(()=>[r("퍼블리싱 페이지")]),_:1})}const m=o(a,[["render",s]]);export{m as default};

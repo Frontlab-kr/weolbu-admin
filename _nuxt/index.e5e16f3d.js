@@ -1,1 +1,0 @@
-import{i as e,o,g as n,w as c,S as _,f as a}from"./entry.7f5874b1.js";const s={};function r(f,x){const t=_;return o(),n(t,{to:"/pub/"},{default:c(()=>[a("퍼블리싱 페이지")]),_:1})}const p=e(s,[["render",r]]);export{p as default};
